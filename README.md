@@ -1,4 +1,4 @@
-# Task2 of 7GUIS -> Temperature Converter App
+# Task3 of 7GUIS -> Flight Booker AUI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
